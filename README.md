@@ -1,6 +1,6 @@
 # GrayBench
 
-**Open-source LLM benchmarking by [GrayArea Labs](https://github.com/GrayArea-Labs).**
+**Open-source LLM benchmarking by [GrayArea Labs](https://www.grayarealabs.com/)).**
 
 GrayBench is a reproducible benchmarking suite that measures how well large language models can write working code. Every benchmark run executes the LLM-generated code in an isolated environment and checks it against real test cases. The code, datasets, and evaluation logic are all open source so anyone can verify that published scores are real.
 
@@ -227,3 +227,4 @@ pytest
 ## License
 
 MIT
+
